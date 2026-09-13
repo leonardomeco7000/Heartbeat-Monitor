@@ -243,5 +243,5 @@ The project is designed so that additional server-side processing can be added l
 
 ## License
 
-Add the license you prefer for the project.
+GNU General Public License (GPL)
 
